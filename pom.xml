@@ -16,7 +16,7 @@
 
 	<properties>
 		<java.version>14</java.version>
-		<guava.version>29.0-jre</guava.version>
+		<guava.version>32.0.0-jre</guava.version>
 		<vavr.version>1.0.0-alpha-3</vavr.version>
 		<dexx-collection.version>0.7</dexx-collection.version>
 		<bifurcan.version>0.2.0-alpha1</bifurcan.version>
